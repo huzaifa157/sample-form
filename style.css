@@ -1,0 +1,81 @@
+/* Add this style to create boxes around each word */
+   .bg{  align-items: top  ; text-align: center; font-style: italic;   align-content: top ;      font-size:  90px; align-content: top;   }
+body{background: linear-gradient(135deg, #71b7e6, #9b59b6);}
+
+
+.name-box {
+    display: flex;
+    gap: 10px; 
+}
+
+.name-word {
+    border: 2px solid #ccc;
+    padding: 12px; width: 900px;
+    border-radius: 6px;  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    margin: 30px;
+    border-top: 0 rgb(0, 0, 0);
+    border-bottom: solid black; 
+    border-left: 0px; font-size: x-large;  font-weight: 400; font-optical-sizing: 50px
+    ;
+    border-right: 0px;
+}
+
+
+.z{
+    font-style: italic; font-size: larger; font-weight: 400;
+}
+.cg{
+    background-color: rgb(128, 229, 46);
+} 
+  
+   .pp{
+    width: 200px;
+    margin: 30px 0 0; 
+    background-color: linear #71b7e6 #9b59b6 ;
+    border-bottom:solid black ;
+    border-top: 0px solid rgb(26, 229, 53) ;
+    border-left: 0px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+
+   
+    border-right: 0cap;
+    outline: 0px;
+   } 
+   
+   label{ align-items: start;
+    font-style: oblique
+   }
+ 
+   .pl{
+    width: 900px;
+   border-top: 0 rgb(0, 0, 0);
+    border-bottom: solid black; 
+    border-left: 0px;
+    border-right: 0px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    outline: 0px; 
+    margin: 30px 0 0; 
+   }
+
+.rp{width: 400px;
+    border-top: 0 blue;
+     border-bottom: solid black; 
+     border-left: 0px;
+     border-right: 0px;
+     background: linear-gradient(135deg, #71b7e6, #9b59b6);
+     outline: 0px; 
+     margin: 30px 0 0; 
+
+}
+    .dd{border: 3px solid rgb(132, 8, 132) ; width: 380px; height: 60px;
+    }
+th{
+    border: 2px  solid rgb(132, 8, 132) ; width: 180px ;
+}
+td{border: 2px  solid rgb(132, 8, 132) ; width: 180px ;  height: 20px;    }
+.x{
+    padding: 30px;
+}
+.bv{
+    border:solid #9b59b6; background: #71b7e6; 
+}
